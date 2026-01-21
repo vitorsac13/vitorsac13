@@ -1,7 +1,7 @@
 #  Vitor Cardoso
 **`Desenvolvedor Backend`**
 
-Me chamo Vitor Cardoso, tenho 29 anos e moro em Botucatu/SP. Concluí a faculdade de Ciência da Computação em 2019 e desde então atuo como desenvolvedor freelancer utilizando as linguagens PHP e Java, atualmente busco uma oportunidade no mercado de trabalho como desenvolvedor backend.
+Me chamo Vitor Cardoso, tenho 29 anos e moro em Botucatu/SP. Concluí a faculdade de Ciência da Computação em 2019 e desde então atuo como desenvolvedor freelancer utilizando as linguagens Javascript, Java e PHP, atualmente busco uma oportunidade no mercado de trabalho como desenvolvedor.
 
 ### Linguagens e Tecnologias
 
