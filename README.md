@@ -7,6 +7,14 @@ Me chamo Vitor Cardoso, tenho 29 anos e moro em Botucatu/SP. Concluí a faculdad
 
 <img 
     align="left" 
+    alt="JS" 
+    title="JS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
